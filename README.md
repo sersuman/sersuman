@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sersuman
+- 👋 Hi, I’m Suman Shrestha
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning js
+- 🌱 I’m currently working in Nodejs.
 - 📫 How to reach me sumanshrestha670@gmail.com
 
 <!---
